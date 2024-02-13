@@ -5,6 +5,9 @@
    
 ![Astro-Yu's github stats](https://github-readme-stats.vercel.app/api?username=Astro-Yu&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Yu&layout=compact&theme=tokyonight)
+
+
 
 ## Skills
 ### Languages & Platform

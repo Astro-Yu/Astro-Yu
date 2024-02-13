@@ -2,12 +2,10 @@
    
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)
+---
    
 ![Astro-Yu's github stats](https://github-readme-stats.vercel.app/api?username=Astro-Yu&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Yu&layout=compact&theme=tokyonight)
-
-
 
 ## Skills
 ### Languages & Platform

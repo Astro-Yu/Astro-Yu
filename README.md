@@ -1,7 +1,6 @@
 <div align="center">
    
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)      
-   
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yush2202&theme=warm)   
 ---
    

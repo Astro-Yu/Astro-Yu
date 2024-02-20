@@ -1,7 +1,8 @@
 <div align="center">
    
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)      
+   
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yush2202&theme=warm)   
 ---
    
 ![Astro-Yu's github stats](https://github-readme-stats.vercel.app/api?username=Astro-Yu&show_icons=true&theme=tokyonight)

@@ -12,8 +12,15 @@
 ![Static Badge](https://img.shields.io/badge/git-red?style=flat-square&logo=git&logoColor=white&labelColor=red&color=red)
 ![Static Badge](https://img.shields.io/badge/github%20actions-blue?style=flat-square&logo=github%20actions&logoColor=white&labelColor=blue&color=blue)
 
+## Education
+- [WoowaCourse](https://www.woowacourse.io/) 7th Backend
 
-### Algorithm
+## Project
+- [Moment](https://connectingmoment.com/)
+  - Backend
+  - Infra 
+
+## Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)
 
 </div>

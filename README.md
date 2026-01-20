@@ -1,5 +1,7 @@
 <div>
-
+  
+# Seokhyeon Yu
+  
 ## Skills
 ### Languages & Platform
 ![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white&color=orange)

@@ -5,15 +5,14 @@
 
 ## Skills
 ### Languages & Platform
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Srping-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white&color=blue)
 
 
 ### Tools
+![Static Badge](https://img.shields.io/badge/docker-white?style=flat-square&logo=Docker&logoColor=white&color=blue)
 </div>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 
 

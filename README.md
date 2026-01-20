@@ -13,7 +13,7 @@
 
 ### Tools
 </div>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 
 

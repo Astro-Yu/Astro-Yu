@@ -13,10 +13,10 @@
 ![Static Badge](https://img.shields.io/badge/github%20actions-blue?style=flat-square&logo=github%20actions&logoColor=white&labelColor=blue&color=blue)
 
 ## Education
-- [WoowaCourse](https://www.woowacourse.io/) 7th Backend
+- [WoowaCourse](https://www.woowacourse.io/) 7th Backend in Woowa Bros. (2025/02 - 2025/11)
 
 ## Project
-- [Moment](https://connectingmoment.com/) - An anonymous social media platform centered on fostering empathy. (2025.07 ~ current)
+- [Moment](https://connectingmoment.com/) - An anonymous social media platform centered on fostering empathy. (2025/07 - current)
   - Backend
   - Infra 
 

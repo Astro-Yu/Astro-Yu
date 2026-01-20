@@ -16,7 +16,7 @@
 - [WoowaCourse](https://www.woowacourse.io/) 7th Backend
 
 ## Project
-- [Moment](https://connectingmoment.com/)
+- [Moment](https://connectingmoment.com/) - An anonymous social media platform centered on fostering empathy. (2025.07 ~ current)
   - Backend
   - Infra 
 

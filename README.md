@@ -9,9 +9,13 @@
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/docker-white?style=flat-square&logo=Docker&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/git-red?style=flat-square&logo=git&logoColor=white&labelColor=red&color=red)
+![Static Badge](https://img.shields.io/badge/github%20actions-blue?style=flat-square&logo=github%20actions&logoColor=white&labelColor=blue&color=blue)
+
 
 ### Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)
+
 </div>
 
 

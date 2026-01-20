@@ -1,7 +1,4 @@
-<div align="center">
-   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)
----
+<div>
 
 ## Skills
 ### Languages & Platform
@@ -12,6 +9,9 @@
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/docker-white?style=flat-square&logo=Docker&logoColor=white&color=blue)
+
+### Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)
 </div>
 
 

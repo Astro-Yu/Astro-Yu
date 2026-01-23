@@ -3,7 +3,7 @@
 # Seokhyeon Yu
   
 ## Skills
-### Languages & Platform
+### Languages & Frameworks
 ![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white&color=green)
 ![Static Badge](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white&color=blue)

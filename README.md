@@ -14,7 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/git-red?style=flat-square&logo=git&logoColor=white&labelColor=red&color=red)
 ![Static Badge](https://img.shields.io/badge/github%20actions-blue?style=flat-square&logo=github%20actions&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/Nginx-green?style=flat-square&logo=nginx&logoColor=white)
-![Static Badge](https://img.shields.io/badge/github%20actions-blue?style=flat-square&logo=github%20actions&logoColor=white&labelColor=blue&color=blue)
 
 ## Education
 - [***WoowaCourse***](https://www.woowacourse.io/) 7th Backend in *Woowa Bros*. `(2025/02 - 2025/11)`

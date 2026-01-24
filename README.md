@@ -5,13 +5,15 @@
 ## Skills
 ### Languages & Frameworks
 ![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white&color=orange)
-![Static Badge](https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/Springboot-green?style=flat-square&logo=springboot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white&color=blue)
 
 
-### Tools
+### Infras
 ![Static Badge](https://img.shields.io/badge/docker-white?style=flat-square&logo=Docker&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/git-red?style=flat-square&logo=git&logoColor=white&labelColor=red&color=red)
+![Static Badge](https://img.shields.io/badge/github%20actions-blue?style=flat-square&logo=github%20actions&logoColor=white&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Nginx-green?style=flat-square&logo=nginx&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github%20actions-blue?style=flat-square&logo=github%20actions&logoColor=white&labelColor=blue&color=blue)
 
 ## Education

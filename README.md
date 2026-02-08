@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=aws)
 
 ## Education
-- [***WoowaCourse***](https://www.woowacourse.io/) 7th Backend in *Woowa Bros*. `(2025/02 - 2025/11)`
+- [***WoowaCourse***](https://www.woowacourse.io/) 7th Backend @ *Woowa Bros*. `(2025/02 - 2025/11)`
 
 ## Project
 - [***Moment***](https://connectingmoment.com/) - An anonymous social media platform centered on fostering empathy. `(2025/07 - current)`

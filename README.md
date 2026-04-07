@@ -22,7 +22,10 @@
 ## Project
 - [***Moment***](https://connectingmoment.com/) - An anonymous social media platform centered on fostering empathy. `(2025/07 - current)`
   - Backend
-  - Infra 
+  - Infra
+ 
+## Contact Me
+📫 yush2202@gmail.com
 
 ## Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)

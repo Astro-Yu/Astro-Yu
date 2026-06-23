@@ -2,7 +2,7 @@
   
 # Seokhyeon Yu
 
-## 💼 Career
+## 💼 Careers
   
 ## ⚙️ Skills
 ### Languages & Frameworks

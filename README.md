@@ -1,6 +1,8 @@
 <div>
   
 # Seokhyeon Yu
+
+## Career
   
 ## Skills
 ### Languages & Frameworks

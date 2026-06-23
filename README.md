@@ -2,9 +2,9 @@
   
 # Seokhyeon Yu
 
-## Career
+## 💼 Career
   
-## Skills
+## ⚙️ Skills
 ### Languages & Frameworks
 ![Static Badge](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/Springboot-green?style=flat-square&logo=springboot&logoColor=white)
@@ -18,16 +18,16 @@
 ![Static Badge](https://img.shields.io/badge/Nginx-green?style=flat-square&logo=nginx&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=aws)
 
-## Education
+## ✏️ Education
 - [***WoowaCourse***](https://www.woowacourse.io/) 7th Backend @ *Woowa Bros*. `(2025/02 - 2025/11)`
 
-## Project
+## 📁 Project
 - [***Moment***](https://connectingmoment.com/) - An anonymous social media platform centered on fostering empathy. `(2025/07 - current)`
   - Backend
   - Infra
  
-## Contact Me
-📫 yush2202@gmail.com
+## 📫 Contact Me
+yush2202@gmail.com
 
 ## Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yush2202)](https://solved.ac/yush2202)
